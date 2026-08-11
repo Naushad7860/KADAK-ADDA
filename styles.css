@@ -93,9 +93,13 @@ nav ul li a:hover{
   color: #fff;
 }
 
-.content .btn{
+.anim.btn{
   padding: 15px 80px;
   font-size: 16px;
+  animation-delay: 1s;
+}
+.menu-img.anim{
+  animation-delay: 1.3s;
 }
 .menu-img{
   width: 400px;
